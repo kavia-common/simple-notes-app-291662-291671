@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-notes-app-291662-291671/notes_frontend"
+}
